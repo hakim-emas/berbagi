@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://https://hakim-emas.github.io/berbagi/Fortune-Tiger-:-Sang-Harimau-Keberuntungan-Yang-Membawa-Hoki!-Hakim4d.html/sitemap.xml
